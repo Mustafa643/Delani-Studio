@@ -61,24 +61,30 @@
 }
 .project img{
     
-    padding-left:100px ;
-    padding: 5px;
+    padding-left:50px ;
+    padding: 3px;
     display: inline;
     
 }
-.row{
-   display: flex;
-   flex-direction: row;
-   border-collapse: separate;
-   border-spacing: 0 15px;
-   width:150px; 
-   text-align:center; 
+.padd-5{
+    padding: 7px;
+    padding-left: 150px;
+    text-align: center;
+    font-size: 15px;
 }
 .PORT {
     text-align: center;
 }
+.fifth-section{
+    background-image: url(/Image/c_image.jpg);
+    background-position: center;
+    background-size: cover;
+}
 
- 
+#id {
+    background-color: transparent;
+}
+
 
 
 

@@ -19,13 +19,13 @@ $(document).ready(function () {
         if (name == "" || email == "") {
             alert("Cannot submit without name and email");
         } else {
-            alert("thank you " + name + " \n message submitted successfully")
+            alert("Thank you " + name + " \n Message submitted successfully")
         }
     });
     $(".padd").hover(function() {
         $(this).children(".card-1").fadeToggle(1000, "linear");
         
        });
-
+   
    
 });

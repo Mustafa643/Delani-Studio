@@ -16,13 +16,13 @@
 ### Visual studio code Output will be: cannot send message without name and email
 
 ##### name	email	response
-##### brian	brayomumo5@gmail.com	how can i book a studio
+##### Mustafa ma5755333@gmail.com	how can i book a studio
 ###### output will be: Thank you brian message submitted successfully
 
 ###### Setup/Installation Requirements
-##### Open this link on a supported web broser to interract with the application: https://brayomumo.github.io/Delani-studio/ To view the source code :
+##### Open this link on a supported web broser to interract with the application: https:// To view the source code :
 ##### install Atom/Visual studio code
-###### git clone https://Github.com/brayomumo/Delani-studio
+###### git clone 
 
 #### Open the folder where the cloned repository is saved
 ##### Technologies Used
@@ -37,4 +37,4 @@
 ### Email: ma5755333@gmail.com
 # License
 ## MIT 
-## License Copyright (c) {2019} Brian Mumo Paul
+## License Copyright (c) {2019} Mustafa Ahmed

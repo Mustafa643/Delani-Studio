@@ -12,7 +12,7 @@ $(document).ready(function () {
         $("#management p").toggle();
         $("#management show img").toggle();
 
-    });
+    })
     $("#contact").submit(function (e) {
         var name = document.getElementById("name").value;
         var email = document.getElementById("email").value;
@@ -25,7 +25,7 @@ $(document).ready(function () {
     $(".padd").hover(function() {
         $(this).children(".card-1").fadeToggle(1000, "linear");
         
-       }):
+       });
    
    
 });

@@ -20,7 +20,7 @@
 ###### output will be: Thank you brian message submitted successfully
 
 ###### Setup/Installation Requirements
-##### Open this link on a supported web broser to interract with the application: https:// To view the source code :
+##### Open this link on a supported web broser to interract with the application: https:// To view the source code :https://github.com/Mustafa643/delani-studio.git
 ##### install Atom/Visual studio code
 ###### git clone
 

@@ -12,7 +12,7 @@ $(document).ready(function () {
         $("#management p").toggle();
         $("#management show img").toggle();
 
-    })
+    });
     $("#contact").submit(function (e) {
         var name = document.getElementById("name").value;
         var email = document.getElementById("email").value;

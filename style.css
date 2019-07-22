@@ -58,6 +58,9 @@
 .project h1{
     text-align: center;
 }
+.project p{
+    display: none;
+}
 .project img{
     
     padding-left:50px ;
@@ -70,6 +73,7 @@
     padding-left: 150px;
     text-align: center;
     font-size: 15px;
+
 }
 .PORT {
     text-align: center;

@@ -22,7 +22,7 @@
 ###### Setup/Installation Requirements
 ##### Open this link on a supported web broser to interract with the application: https:// To view the source code :
 ##### install Atom/Visual studio code
-###### git clone 
+###### git clone
 
 #### Open the folder where the cloned repository is saved
 ##### Technologies Used
